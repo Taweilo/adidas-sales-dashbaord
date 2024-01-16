@@ -6,11 +6,11 @@
  
 ```
 ├── Image
-│   ├── Publish.jpg                               <- dashbaord image used in the README                    
+│   ├── Publish.jpg                               <- dashboard image used in the README                    
 │
+├── Addidas dashboard.twb                         <- tableau workbook
+├── Adidas Sales Datasets.xlsx                    <- dataset
 ├── README.md                                     <- read me
-├── Sales Dashboard.twb                           <- tableau workbook
-├── Sample - EU Superstore.csv                    <- dataset
 ```
 ## Data 
 https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset

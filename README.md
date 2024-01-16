@@ -1,14 +1,11 @@
 # Adidas Annual Sales Dashboard
-
 ![Software](https://img.shields.io/badge/%20Tableau-FFFFFF?style=for-the-badge&logo=Tableau&logoColor=0077B5)
 
  
 ```
-├── Image
-│   ├── Publish.jpg                               <- dashboard image used in the README                    
-│
 ├── Addidas dashboard.twb                         <- tableau workbook
 ├── Adidas Sales Datasets.xlsx                    <- dataset
+├── Publish.jpg                                   <- dashboard image used in the README      
 ├── README.md                                     <- read me
 ```
 ## Data 

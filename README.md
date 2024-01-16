@@ -8,7 +8,6 @@
 ├── Image
 │   ├── Publish.jpg                               <- dashbaord image used in the README                    
 │
-├── LICENSE                                       <- MIT license
 ├── README.md                                     <- read me
 ├── Sales Dashboard.twb                           <- tableau workbook
 ├── Sample - EU Superstore.csv                    <- dataset
@@ -29,7 +28,7 @@ https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 4. Add interactivity
 
 ## Deployment
-https://public.tableau.com/shared/S42RY5MC5?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/ta.wei.lo/viz/AddidasAnnualSalesDashboard/Dashboard2
  <img src="https://github.com/Taweilo/EU_Sales_Dashboard/blob/main/Image/Publish.jpg" width="1100">
 
 ## Reference

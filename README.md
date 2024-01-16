@@ -1,9 +1,5 @@
-# Adidas_Sales_Dashbaord
+# Adidas Annual Sales Dashboard
 
-## Data 
-https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
-
-# EU Sales Interactive Dashboard via Tableau
 ![Software](https://img.shields.io/badge/%20Tableau-FFFFFF?style=for-the-badge&logo=Tableau&logoColor=0077B5)
 
  <img src="https://github.com/Taweilo/EU_Sales_Dashboard/blob/main/Image/Publish.jpg" width="1100">
@@ -17,12 +13,12 @@ https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 ├── Sales Dashboard.twb                           <- tableau workbook
 ├── Sample - EU Superstore.csv                    <- dataset
 ```
-## Data: 
-Data source: https://data.world/missdataviz/superstore-sales-eu from data. world
+## Data 
+https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 ## Dashboard include
-* Monthly sales
 * KPIs
+* Monthly sales
 * Top-selling products
 * Regions performance
 

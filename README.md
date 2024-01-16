@@ -2,7 +2,6 @@
 
 ![Software](https://img.shields.io/badge/%20Tableau-FFFFFF?style=for-the-badge&logo=Tableau&logoColor=0077B5)
 
- <img src="https://github.com/Taweilo/EU_Sales_Dashboard/blob/main/Image/Publish.jpg" width="1100">
  
 ```
 ├── Image
@@ -29,7 +28,7 @@ https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 
 ## Deployment
 https://public.tableau.com/app/profile/ta.wei.lo/viz/AddidasAnnualSalesDashboard/Dashboard2
- <img src="https://github.com/Taweilo/EU_Sales_Dashboard/blob/main/Image/Publish.jpg" width="1100">
+ <img src="https://github.com/Taweilo/Adidas_Sales_Dashbaord/blob/main/Publish.jpg" width="1100">
 
 ## Reference
 * Dashboard Development https://www.youtube.com/watch?v=6oFTdbrugUs

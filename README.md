@@ -26,8 +26,3 @@ https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 https://public.tableau.com/app/profile/ta.wei.lo/viz/VideoGameStory_17126351189650/VideoGamingStory?publish=yes
  <img src="https://github.com/Taweilo/Adidas_Sales_Dashbaord/blob/main/Publish.jpg" width="1100">
 
-## Insights
-1. Overall:
-2. Playstation
-3. Xbox
-4. Nintendo

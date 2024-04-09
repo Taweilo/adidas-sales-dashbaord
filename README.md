@@ -1,6 +1,5 @@
 # Adidas Annual Sales Dashboard
 ![Software](https://img.shields.io/badge/%20Tableau-FFFFFF?style=for-the-badge&logo=Tableau&logoColor=0077B5)
-
  
 ```
 ├── Addidas dashboard.twb                         <- tableau workbook
@@ -24,9 +23,11 @@ https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
 4. Add interactivity
 
 ## Deployment
-https://public.tableau.com/app/profile/ta.wei.lo/viz/AddidasAnnualSalesDashboard/Dashboard2
+https://public.tableau.com/app/profile/ta.wei.lo/viz/VideoGameStory_17126351189650/VideoGamingStory?publish=yes
  <img src="https://github.com/Taweilo/Adidas_Sales_Dashbaord/blob/main/Publish.jpg" width="1100">
 
-## Reference
-* Dashboard Development https://www.youtube.com/watch?v=6oFTdbrugUs
-* Publish to Tableau Public https://www.youtube.com/watch?v=mIP-58_qTEs
+## Insights
+1. Overall:
+2. Playstation
+3. Xbox
+4. Nintendo
